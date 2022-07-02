@@ -1,4 +1,4 @@
-//Módulo com operações de soma, subtração, And e Or.
+// Módulo com operações de soma, subtração, And e Or.
 module somador(input[3:0] a, b, input [1:0]seletor, output reg[3:0]res);
 	always @(*) begin
 		case(seletor)
