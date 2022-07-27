@@ -1,3 +1,3 @@
 # FPGA-ALTERADE2
-Estudo da FPGA Altera DE2 e Verilog HDL.
+Processador MIPS e Estudo da FPGA Altera DE2 com Verilog HDL e Assembly MIPS.
 - Software: Quartus II 13.0
