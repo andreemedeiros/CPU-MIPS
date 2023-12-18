@@ -2,10 +2,9 @@
 
 
 ## Índice
-- [Plano de Verificação](#Plano-de-Verificação)
-- [CPU V1.0](#CPU-V-1.0)
+- [Descrição](#Descrição)
+- [Design CPU V1.0](#Design-CPU-V-1.0)
 - [Recursos](#Recursos)
-- [Simulação](#Simulação)
 - [Autor](#Autor)
 - [Licença](#Licença)
 
