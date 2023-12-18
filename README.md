@@ -3,7 +3,7 @@
 
 ## Índice
 - [Descrição](#Descrição)
-- [Design CPU V1.0](#Design-CPU-V1.0)
+- [Design CPU](#Design-CPU)
 - [Recursos](#Recursos)
 - [Autor](#Autor)
 - [Licença](#Licença)
@@ -13,7 +13,7 @@
 Projeto de um processador MIPS de ciclo único com instruções em Assembly utilizando FPGA Altera DE2.
 
 
-## Design CPU V1.0
+## Design CPU
 Design da versão final da CPU.
 
 ![](cpu.png)
