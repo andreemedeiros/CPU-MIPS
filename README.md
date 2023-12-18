@@ -3,7 +3,7 @@
 
 ## Índice
 - [Descrição](#Descrição)
-- [Design CPU V1.0](#Design-CPU-V-1.0)
+- [Design CPU V1.0](#Design-CPU-V1.0)
 - [Recursos](#Recursos)
 - [Autor](#Autor)
 - [Licença](#Licença)
