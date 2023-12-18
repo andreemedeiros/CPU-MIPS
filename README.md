@@ -10,9 +10,8 @@
 
 ## Descrição
 
-```
 Projeto de um processador MIPS de ciclo único com instruções em Assembly utilizando FPGA Altera DE2.
-```
+
 
 ## Design CPU V1.0
 Design da versão final da CPU.
