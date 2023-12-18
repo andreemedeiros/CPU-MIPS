@@ -1,1 +1,1 @@
-Pasta dedicada a sprints de desenvolvimento do projeto.
+Pasta dedicada às sprints de desenvolvimento do projeto.
